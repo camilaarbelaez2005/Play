@@ -20,3 +20,15 @@
     color: white;
     
 }
+
+.bg_naveg {
+    *background-color: darkgrey;
+}
+.fondoimg{
+  background-image: url(img/Play.jpeg);
+  background-position: center;
+  background-size: cover;
+}
+.texto{
+    text-align: center;
+}
