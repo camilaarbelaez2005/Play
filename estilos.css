@@ -25,9 +25,11 @@
     *background-color: darkgrey;
 }
 .fondoimg{
-  background-image: url(img/Play.jpeg);
+  background-image: url(img/usadas.jfif);
   background-position: center;
   background-size: cover;
+ width: 1300px;
+ height: 800px;
 }
 .texto{
     text-align: center;
